@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url("13692.png");
+    background-size: 100% 130%;
+}
+
+.Registro-formulario{
+    width: 400px;
+    background:#b42538 ;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: "calibri";
+    color: white;
+    box-shadow: 7px 13px 37px #504141;
+}
+
+.Registro-formulario h4{
+    font-size: 22px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.controles{
+    width: 100%;
+    background: #4d121e;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #9f1ac0;
+    font-family: "calibri";
+    font-size: 18px;
+    color: white;
+}   
+
+.Registro-formulario p{
+
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    
+}
+
+.Registro-formulario a{
+    color: white;
+     text-decoration: none;
+}
+
+.Registro-formulario a:hover{
+    color: white;
+     text-decoration: underline;
+}
+
+.Registro-formulario .botones{
+    width: 100%;
+    background: #551313;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+}
